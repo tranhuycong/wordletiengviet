@@ -1,0 +1,26 @@
+{
+  "short_name": "Wordle",
+  "name": "Wordle",
+  "id": ".",
+  "scope": ".",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#232332",
+  "background_color": "#232332",
+  "icons": [
+    {
+      "src": "icons/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "description": "Play Wordle with daily and unlimited words! Guess words from 4 to 11 letters in different languages and create your own puzzles. Can you guess the hidden word in 6 tries?",
+  "features": ["wordle", "daily", "guessing", "words"],
+  "categories": ["games"]
+}
